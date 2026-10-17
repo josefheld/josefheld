@@ -10,6 +10,7 @@ Founder of [Kigazon Enterprises GmbH](https://kigazon.com) · Deutschlandsberg, 
 | | | Status |
 |---|---|---|
 | **[MAICA](https://kigazon.com/maica.html)** | Run Claude Code and Codex in parallel. MAICA tells you when and where a session needs you and brings you back to it. | Private beta · [issues](https://github.com/josefheld/maica/issues) |
+| **[DevReceipt](https://kigazon.com/devreceipt.html)** | For developers who work for clients: a short delivery brief from your Git history and time records, backed by an evidence ledger. Local-first. | Private beta · [issues](https://github.com/josefheld/devreceipt/issues) |
 | **[claude-plugins](https://github.com/josefheld/claude-plugins)** | Five Claude Code plugins: statusline, update-plugins, llm-council, cc-changelog, fal-image-generator. | Open source |
 
 ```
