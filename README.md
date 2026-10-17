@@ -1,7 +1,6 @@
-### Josef Held
+<img src="banner.png" alt="Josef Held, software architect for 24 years. I get grown JavaScript and TypeScript systems shipping fast again." width="100%">
 
-Software architect, 24 years in. I get grown JavaScript and TypeScript systems shipping fast again.
-Lately most of that work runs through coding agents, so I build the tools I was missing for them.
+Most of my work now runs through coding agents, so I build the tools I was missing for them.
 
 Founder of [Kigazon Enterprises GmbH](https://kigazon.com) · Deutschlandsberg, Austria
 
