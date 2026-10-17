@@ -19,10 +19,10 @@ Founder of [Kigazon Enterprises GmbH](https://kigazon.com) · Deutschlandsberg, 
 
 #### Fixed-fee engagements
 
-| | | |
-|---|---|---|
-| **[Codebase Decision](https://kigazon.com/audit.html)** | Refactor, rewrite or ship as-is? A decision on your JS/TS codebase in 3 days, with fix backlog and decision meeting. | EUR 2,500 net |
-| **[Software-Fahrplan](https://kigazon.com/software-fahrplan.html)** | Technical start plan for building your own software with Codex or Claude: stack, data protection, project rules, start guide. | EUR 1,490 net |
+| | |
+|---|---|
+| **[Codebase Decision](https://kigazon.com/audit.html)** | Refactor, rewrite or ship as-is? A decision on your JS/TS codebase in 3 days, with fix backlog and decision meeting. |
+| **[Software-Fahrplan](https://kigazon.com/software-fahrplan.html)** | Technical start plan for building your own software with Codex or Claude: stack, data protection, project rules, start guide. |
 
 Both pages are in German; the work runs in German or English.
 
