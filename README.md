@@ -24,13 +24,15 @@ Founder of [Kigazon Enterprises GmbH](https://kigazon.com) · Deutschlandsberg, 
 | **[Software-Fahrplan](https://kigazon.com/software-fahrplan.html)** | Technical start plan for building your own software with Codex or Claude: stack, data protection, project rules, start guide. |
 | **[Produktiv-Check](https://kigazon.com/produktiv-check.html)** | Find out where productivity is being lost in your workflows and identify practical opportunities for improvement. |
 
-All three pages are in German; the work runs in German or English.
+Service descriptions are in German. Engagements are available in both German and English.
 
 #### Where else I help
 
-- Legacy JS/TS codebases that slowed down: architecture, refactoring plan, delivery again
-- Interim CTO for companies without one
-- Introducing coding agents into a team without losing control of the code
+25+ years in software development and architecture. I help companies make sound technical decisions, build reliable software, and deliver with confidence.
 
+- **Legacy JS/TS modernization** — Reduce technical debt, simplify architecture, and improve maintainability and delivery.
+- **Interim CTO & technical leadership** — Technical strategy, architecture decisions, and hands-on leadership without a full-time hire.
+- **AI-assisted development** — Integrate Claude Code, Codex, and coding agents into development workflows while maintaining code quality and control.
+  
 I write about this (in German) at [kigazon.com/blog](https://kigazon.com/blog.html).
 [LinkedIn](https://www.linkedin.com/in/josef-held) · [30-minute call](https://cal.eu/josefheld/consultation30min)
