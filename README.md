@@ -22,8 +22,9 @@ Founder of [Kigazon Enterprises GmbH](https://kigazon.com) · Deutschlandsberg, 
 |---|---|
 | **[Codebase Decision](https://kigazon.com/audit.html)** | Refactor, rewrite or ship as-is? A decision on your JS/TS codebase in 3 days, with fix backlog and decision meeting. |
 | **[Software-Fahrplan](https://kigazon.com/software-fahrplan.html)** | Technical start plan for building your own software with Codex or Claude: stack, data protection, project rules, start guide. |
+| **[Produktiv-Check](https://kigazon.com/produktiv-check.html)** | Find out where productivity is being lost in your workflows and identify practical opportunities for improvement. |
 
-Both pages are in German; the work runs in German or English.
+All three pages are in German; the work runs in German or English.
 
 #### Where else I help
 
